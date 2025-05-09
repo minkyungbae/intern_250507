@@ -1,0 +1,2 @@
+1. pandas 설치
+pip install pandas
