@@ -65,7 +65,13 @@ rhoonart
 │  │     ├─ user.csv
 │  │     ├─ user_complete.csv
 │  │     └─ user_converted_1.csv
-│  └─ format_datetime.py                                     -> 날짜 표기 형식 변환과 unique id를 UUID로 변경하는 코드
+│  └─ format_datetime.py                                    -> 날짜 표기 형식 변환과 unique id를 UUID로 변경하는 코드
+├─ crawling
+│  ├─ .DS_Store
+│  ├─ 01.base-code.ipynb                                    -> 크롤링 기본 코드
+│  ├─ 02.one-product.ipynb                                  -> 크롤링 제품 한 가지만 가져오는 코드 (이케아로 예시)
+│  ├─ 03.youtube.ipynb                                      -> 유튜브 크롤링 코드
+│  └─ 04.real-code.ipynb                                    -> 실제로 쓰고 있는 코드
 ├─ pip 명령어.txt
 └─ requirements.txt
 
