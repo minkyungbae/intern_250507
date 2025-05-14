@@ -1,2 +1,11 @@
 1. pandas 설치
 pip install pandas
+
+# selenium 설치
+pip install selenium
+
+# bs4 설치
+pip install BeautifulSoup
+
+# webdriver manager 설치
+pip install webdriver-manager
