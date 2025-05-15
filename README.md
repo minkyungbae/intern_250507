@@ -67,11 +67,20 @@ rhoonart
 │  │     └─ user_converted_1.csv
 │  └─ format_datetime.py                                    -> 날짜 표기 형식 변환과 unique id를 UUID로 변경하는 코드
 ├─ crawling
-│  ├─ .DS_Store
 │  ├─ 01.base-code.ipynb                                    -> 크롤링 기본 코드
 │  ├─ 02.one-product.ipynb                                  -> 크롤링 제품 한 가지만 가져오는 코드 (이케아로 예시)
-│  ├─ 03.youtube.ipynb                                      -> 유튜브 크롤링 코드
+│  ├─ 03-1.youtube.ipynb                                    -> 2차 유튜브 크롤링 코드(250514)
+│  ├─ 03-2.youtube.ipynb                                    -> 3차 유튜브 크롤링 코드(250515) : 함수화까지 완료
+│  ├─ 03.youtube.ipynb                                      -> 1차 유튜브 크롤링 코드(250513)
 │  └─ 04.real-code.ipynb                                    -> 실제로 쓰고 있는 코드
+│  ├─ 침착맨_유튜브_250513.xlsx
+│  ├─ 침착맨_유튜브_250513_1.xlsx
+│  ├─ 침착맨_유튜브_250514.xlsx
+│  ├─ 침착맨_유튜브_250514_1.xlsx
+│  ├─ 침착맨_유튜브_250514_2.xlsx
+│  ├─ 침착맨_유튜브_250514_3.xlsx
+│  ├─ 침착맨_유튜브_250515.xlsx
+│  └─ 침착맨_유튜브_250515_1.xlsx
 ├─ pip 명령어.txt
 └─ requirements.txt
 
